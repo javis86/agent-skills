@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Sensitive credentials & environment files
+.env
+.env.*
+*.token
+credentials.json
+
+# Live financial data & exports (preserve example fixture)
+portfolio*.json
+!examples/portfolio_data.json
+balance*.json
+activities*.json
+*.csv

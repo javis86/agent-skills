@@ -1,0 +1,82 @@
+{
+  "start": {
+    "YPFD": {
+      "qty": 8.0,
+      "price": 83000.0,
+      "currency": "ARS"
+    },
+    "PAMP": {
+      "qty": 17.0,
+      "price": 5570.0,
+      "currency": "ARS"
+    },
+    "NVDA": {
+      "qty": 10.0,
+      "price": 13220.0,
+      "currency": "ARS"
+    },
+    "CASH_ARS": {
+      "qty": 497.79,
+      "price": 1.0,
+      "currency": "ARS"
+    },
+    "IOLDOLD": {
+      "qty": 1686.0724,
+      "price": 1.089059,
+      "currency": "USD",
+      "net_purchases": 1052.03
+    },
+    "ADCGLOA": {
+      "qty": 0.0,
+      "price": 1.349414,
+      "currency": "USD",
+      "net_purchases": 300.0
+    },
+    "CASH_USD": {
+      "qty": 1.99,
+      "price": 1.0,
+      "currency": "USD"
+    }
+  },
+  "end": {
+    "YPFD": {
+      "qty": 80.0,
+      "price": 8150.0,
+      "currency": "ARS"
+    },
+    "PAMP": {
+      "qty": 17.0,
+      "price": 5080.0,
+      "currency": "ARS"
+    },
+    "NVDA": {
+      "qty": 10.0,
+      "price": 14280.0,
+      "currency": "ARS"
+    },
+    "CASH_ARS": {
+      "qty": 497.79,
+      "price": 1.0,
+      "currency": "ARS"
+    },
+    "IOLDOLD": {
+      "qty": 2651.6995,
+      "price": 1.087375,
+      "currency": "USD"
+    },
+    "ADCGLOA": {
+      "qty": 222.3187,
+      "price": 1.345605,
+      "currency": "USD"
+    },
+    "CASH_USD": {
+      "qty": 0.00,
+      "price": 1.0,
+      "currency": "USD"
+    }
+  },
+  "external_inflows": {
+    "ARS": 0.0,
+    "USD": 1350.04
+  }
+}
